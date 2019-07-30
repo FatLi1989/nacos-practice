@@ -6,7 +6,7 @@
         <groupId>novli.nacos</groupId>
         <artifactId>dependencies</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../dependencies/pom.xml</relativePath>
     </parent>
 
     <artifactId>gateway</artifactId>
